@@ -1,7 +1,6 @@
 public class Main {
     public static void main(String[] args) {
 
-
             //задание 1
             System.out.println("задание 1");
             String firstName = "Ivan";
